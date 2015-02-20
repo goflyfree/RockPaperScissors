@@ -1,0 +1,33 @@
+body {
+	font-family:  "Times New Roman", Georgia, Serif;
+	text-align:  center;
+	background:  url('../images/background.jpg') no-repeat center center fixed;
+    -webkit-background-size:  cover;
+    -moz-background-size:  cover;
+    -o-background-size:  cover;
+    background-size:  cover;
+	color: #ffffff;
+}
+
+.symbol  {
+	cursor:  pointer;
+	opacity:  .75;
+}
+.symbol:hover  {
+	opacity:  1;
+}
+p,  figcaption  {
+	font-size:  16px;
+}
+figcaption {
+    color: #C9C9DC;
+}
+h1  {
+	font-size:  30px;
+	font-weight: bold;
+}
+h2,h3  {
+	font-size:  20px;
+	color:#FFFFFF;
+}
+
